@@ -7,3 +7,15 @@ De igual manera, el repositorio contiene una carpeta para los ejercicios. Esta c
 ## Creditos
 
 Sebastián Venegas Brenes
+
+---
+
+# Repository for Networks and Operating Systems assignments
+
+It contains a folder for the examples, which is subdivided into separate folders for each example.
+
+Likewise, the repository contains a folder for the exercises. This folder is subdivided into folders for each exercise.
+
+## Credits
+
+Sebastián Venegas Brenes
